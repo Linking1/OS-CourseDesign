@@ -1,3 +1,5 @@
+1511482+祝文斌+软件学院
+====================================
 another.c is the thread homework.
 ====================================
 little is the little kern by myself.
